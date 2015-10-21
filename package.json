@@ -1,0 +1,17 @@
+{
+  "name": "heap.js",
+  "version": "1.0.0",
+  "description": "heap implemented by javascript",
+  "main": "./lib/heap.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+ 
+  },
+  "author": "Qi Tang",
+  "license": "ISC"
+}
