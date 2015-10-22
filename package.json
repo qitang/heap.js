@@ -10,7 +10,7 @@
     "test": "mocha test"
   },
   "devDependencies": {
- 
+    "chai": "3.4.0"
   },
   "author": "Qi Tang",
   "license": "ISC"
